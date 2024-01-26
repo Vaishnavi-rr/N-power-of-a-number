@@ -1,0 +1,1 @@
+# N-power-of-a-number
